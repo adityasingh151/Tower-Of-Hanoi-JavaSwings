@@ -38,3 +38,7 @@
                               <h4>This class represents a single tower or peg in the game. It maintains a stack of disks and includes methods to manipulate the disks, such as adding a disk, removing a disk, and checking the top disk.
                                 <h2>Contributions
                                   <h3>Contributions to this project are welcome. If you have any suggestions, improvements, or bug fixes, please feel free to submit a pull request or open an issue in the project repository.
+                                    <h2>Team Members
+                                      <h4>Aman Kumar
+                                        <h4>Kanwaljot Singh
+                                          <h4>Aditya Singh
